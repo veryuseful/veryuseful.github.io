@@ -14,4 +14,3 @@ jobs:
           enforce_https: false
           tokens: |
             {"https://github.com": "${{ secrets.GITHUB_TOKEN }}"}
-      - uses: actions/deploy-pages@v4.0.5
