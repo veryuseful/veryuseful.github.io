@@ -1,0 +1,7 @@
+/* VeryUseful core CSS */
+body {
+  font-family: sans-serif;
+}
+.header.hero {
+  font-family: monospace  !important;
+}
