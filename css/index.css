@@ -1,7 +1,9 @@
 /* VeryUseful core CSS */
 body {
   font-family: sans-serif;
+  padding: 7px;
 }
 .header.hero {
   font-family: monospace  !important;
+  text-align: center;
 }
